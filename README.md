@@ -1,7 +1,7 @@
 # About ME!
 - 👋 Hi, I’m Robert Mauer
-- 👀 I’m interested in starting a new career in Tech. I will be leaving Active Duty Marine Corps after 20 Years as an Intelligence Professional and hope to transition into teck. I'm currently working on Computer Visoin AI tools with ECS Tech
-- 🌱 I’m attended Microfost Sever Administration in the Microsoft Systems & Software Academy and learned PowerShell Scripting
+- 👀 I’m currently a Field Support Representitive in second role of my career in Tech after leaving Active Duty Marine Corps.  Durring my 20 Years as an Active Duty Intelligence Professional and hope to transition into teck. I'm currently working on Computer Visoin AI tools with ECS Tech
+- 🌱 I attended Microfost Sever Administration in the Microsoft Systems & Software Academy and learned PowerShell Scripting
 - 💞️ I’m looking to collaborate on ways to learn new skills that will help 
 - 📫 How to reach me
   * [email](robert.mauer81@outlook.com)
